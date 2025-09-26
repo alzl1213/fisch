@@ -155,10 +155,13 @@ if WinActive("Roblox")
 	}
 else
 	{
-	msgbox, where roblox bruh
+	msgbox, where roblox bruh?
 	exitapp
 	}
-	
+	:weray: msgbox, 
+if i found roblox
+= 
+sorry it was here, i founded
 ;====================================================================================================;
 
 send {lbutton up}
@@ -891,4 +894,5 @@ else
 	tooltip, , , , 20
 	sleep %RestartDelay%
 	goto RestartMacro
+
 	}
